@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hamza Ilyas
 - 👀 I’m currently learning Game Development!
-- 🌱 I lova learning new languages including React, Ruby, and Go!
+- 🌱 I love learning new languages including React, Ruby, and Go!
 - 📫 How to reach me hilyas2131@gmail.com
 
 <!---
